@@ -39,6 +39,14 @@ end
 - Read - Get(no text body : always only read data , not to send data.)
 - Update - Put - patch(part of update)
 
+```mermaid
+classDiagram
+class A{
++int food
++time(int time)action
+}
+
+````
 
 
 ## Json
