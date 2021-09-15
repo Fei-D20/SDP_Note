@@ -1,2 +1,1 @@
-# SDP_Note
-This is SDP_Note
+This book is the note for SDP class note.
